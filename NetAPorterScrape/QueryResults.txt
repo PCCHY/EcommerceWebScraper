@@ -1,0 +1,10 @@
+Total Scrape: 5100
+Total Discounted Item: 0
+Topwear Without Discount: 3000
+Number of Unique Brands: 283
+Discounted Products for Each Brand: []
+Products have 'Shirt' in name: 1114
+Num Of products with offer price > 300: 4375
+Num Of products with discount 30: 0
+Footwear with more than 50% discount: 0
+TopSelleing Top Wear: SAINT LAURENT
